@@ -5,4 +5,4 @@ BUTUH LICENSE/PW CHAT TELE GUA
 
 Comand Run Install Thema
 
-bash <(curl https://raw.githubusercontent.com/IsiGithubMu/thema/main/install.sh)
+bash <(curl https://raw.githubusercontent.com/Kevwxfwi/KevinOffc/thema/main/install.sh)
